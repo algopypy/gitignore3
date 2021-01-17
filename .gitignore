@@ -1,4 +1,6 @@
-gitignore.class
-.classpath
-MANIFEST.MF
+.project
+.java
+.class
+.setting
+
 
